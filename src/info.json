@@ -8,7 +8,7 @@
   "author": "Eric_余浩",
   "homepage": "https://blog.yuhaowin.com/2021-01-03-wordbook-bob-plugin",
   "appcast": "https://raw.githubusercontent.com/yuhaowin/wordbook-bob-plugin/main/appcast.json",
-  "minBobVersion": "1.12.0",
+  "minBobVersion": "0.10.0",
   "options": [
     {
       "identifier": "dict_type",
